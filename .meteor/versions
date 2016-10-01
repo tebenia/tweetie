@@ -25,7 +25,6 @@ ejson@1.0.12
 es5-shim@4.6.14
 fastclick@1.0.12
 fortawesome:fontawesome@4.6.3
-fourseven:scss@3.10.0
 geojson-utils@1.0.9
 hot-code-push@1.0.4
 html-tools@1.0.11
@@ -64,6 +63,7 @@ spacebars@1.0.13
 spacebars-compiler@1.0.13
 standard-minifier-css@1.2.1
 standard-minifier-js@1.2.0
+stylus@2.513.5
 templating@1.2.15
 templating-compiler@1.2.15
 templating-runtime@1.2.15
