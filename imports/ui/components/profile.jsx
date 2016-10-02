@@ -38,15 +38,15 @@ const Profile = () => (
          <div className="col-md-4 col-lg-3">
 
            <div className="profile-information">
-             <img src="https://pbs.twimg.com/profile_images/431476628166696960/xQCVJI_u_400x400.jpeg" alt="" className="profile-image" />
+             <img src="https://abs.twimg.com/sticky/default_profile_images/default_profile_0_200x200.png" alt="" className="profile-image" />
 
-             <h3 className="username">josh owens</h3>
-             <span className="handle">@joshowens</span>
+             <h3 className="username">Tribudi Sabdo Utomo</h3>
+             <span className="handle">@tebenia</span>
              <p className="user-profile-description">designs &amp; develops websites. spends a lot of time in photoshop. likes science, cats, and magic the gathering.</p>
 
              <ul className="user-profile-info">
                <li><i className="fa fa-fw fa-map-marker"></i> Cincinnati, OH</li>
-               <li><i className="fa fa-fw fa-link"></i> <a href="http://joshowens.me">joshowens.me</a></li>
+               <li><i className="fa fa-fw fa-link"></i> <a href="https://www.tribudi.com">tribudi.com</a></li>
                <li><i className="fa fa-fw fa-clock-o"></i> Joined April 04, 1980</li>
              </ul>
            </div>
@@ -60,7 +60,7 @@ const Profile = () => (
              </li>
 
              <li className="list-group-item tweet">
-               <h5 className="tweet-author">amanda saffer <span className="author-info"><a href="#">@12pixels &middot; 16m</a></span></h5>
+               <h5 className="tweet-author">tebenia <span className="author-info"><a href="#">@12pixels &middot; 16m</a></span></h5>
                <p className="list-group-item-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates minus rem vero quidem eligendi consectetur harum quod ratione debitis. </p>
 
                <span className="expand"><a href="#">Expand</a></span>
@@ -73,7 +73,7 @@ const Profile = () => (
              </li>
 
              <li className="list-group-item tweet">
-               <h5 className="tweet-author">amanda saffer <span className="author-info"><a href="#">@12pixels &middot; 18m</a></span></h5>
+               <h5 className="tweet-author">tebenia <span className="author-info"><a href="#">@12pixels &middot; 18m</a></span></h5>
                <p className="list-group-item-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione facere expedita mollitia draco dormiens. #yum #food</p>
 
                <span className="expand"><a href="#">Expand</a></span>
@@ -86,7 +86,7 @@ const Profile = () => (
              </li>
 
              <li className="list-group-item tweet">
-               <h5 className="tweet-author">amanda saffer <span className="author-info"><a href="#">@12pixels &middot; 25m</a></span></h5>
+               <h5 className="tweet-author">tebenia <span className="author-info"><a href="#">@12pixels &middot; 25m</a></span></h5>
                <p className="list-group-item-text">Dolor sit amet, consectetur adipisicing elit. Voluptates minus rem vero quidem eligendi consectetur harum quod rati.</p>
 
                <span className="expand"><a href="#">Expand</a></span>
@@ -99,7 +99,7 @@ const Profile = () => (
              </li>
 
              <li className="list-group-item tweet">
-               <h5 className="tweet-author">amanda saffer <span className="author-info"><a href="#">@12pixels &middot; 26m</a></span></h5>
+               <h5 className="tweet-author">tebenia <span className="author-info"><a href="#">@12pixels &middot; 26m</a></span></h5>
                <p className="list-group-item-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione facere expedita mollitia draco dormiens. #yum #food</p>
 
                <span className="expand"><a href="#">Expand</a></span>

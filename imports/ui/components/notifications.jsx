@@ -8,12 +8,12 @@ const Notifications = () => (
            <div className="media panel-body">
 
              <a className="pull-left" href="#">
-               <img className="media-object" src="https://pbs.twimg.com/profile_images/431476628166696960/xQCVJI_u_bigger.jpeg" alt="..." />
+               <img className="media-object" src="https://abs.twimg.com/sticky/default_profile_images/default_profile_0_200x200.png" alt="..." />
              </a>
 
              <div className="media-body">
-               <span className="username"><strong>josh owens</strong></span> <br />
-               <span className="handle">@joshowens</span>
+               <span className="username"><strong>Tribudi Sabdo Utomo</strong></span> <br />
+               <span className="handle">@tebenia</span>
              </div>
 
              <table id="profile-stats" className="table">
