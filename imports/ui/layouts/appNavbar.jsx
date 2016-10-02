@@ -10,7 +10,7 @@ const AppNavbar = () => (
           <span className="icon-bar"></span>
           <span className="icon-bar"></span>
         </button>
-        <a href="" className="navbar-brand">
+        <a href="/" className="navbar-brand">
           <i className="fa fa-twitter"></i>
         </a>
       </div>
